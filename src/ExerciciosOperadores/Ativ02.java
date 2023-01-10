@@ -4,8 +4,8 @@ public class Ativ02 {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
-        int nota1, nota2, nota3, nota4;
-        int media, i, contAluno = 0;
+        float nota1, nota2, nota3, nota4;
+        float media, i, contAluno = 0;
 
         for(i = 0; i < 4; i++){
 

@@ -6,8 +6,8 @@ public class Ativ04 {
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);
-        int numero1, numero2, numero3, numero4;
-        int diferenca, contaNumero = 1;
+        float numero1, numero2, numero3, numero4;
+        float diferenca, contaNumero = 1;
 
         System.out.println("Digite o número " + contaNumero);
         numero1 = entrada.nextInt();
